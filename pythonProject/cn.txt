@@ -1,0 +1,2 @@
+在下拉菜单中选择“设置”（Settings）。
+ On the Settings page, we want to locate the Networks menu.

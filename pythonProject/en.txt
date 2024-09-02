@@ -1,0 +1,2 @@
+Select Settings from the dropdown menu.
+在设置页面中，找到“网络”（Networks）菜单。

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+<prop type="x-LastUsedBy">DESKTOP-JUQ5I9D\super</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+<tuv xml:lang="en-US">
+<seg>Select Settings from the dropdown menu.</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg>在下拉菜单中选择“设置”（Settings）。</seg>
+</tuv>
+
+<prop type="x-LastUsedBy">DESKTOP-JUQ5I9D\super</prop>
+<prop type="x-Origin">TM</prop>
+<prop type="x-OriginalFormat">Unknown</prop>
+<prop type="x-ConfirmationLevel">ApprovedSignOff</prop>
+<tuv xml:lang="en-US">
+<seg>在设置页面中，找到“网络”（Networks）菜单。</seg>
+</tuv>
+<tuv xml:lang="zh-CN">
+<seg> On the Settings page, we want to locate the Networks menu.</seg>
+</tuv>
+</tmx>
